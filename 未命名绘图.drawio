@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-29T15:56:28.397Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="IonKLQ7WjY0mKJhV8qMS" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-29T15:56:38.582Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="sjew6wjBHzouNwmSQ4IC" version="21.2.3" type="github">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
     <mxGraphModel dx="1560" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -181,7 +181,7 @@
             <mxPoint x="1070" y="580" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="R3M38g9wFdwyGaRBHHTt-32" value="中心平台实时监测指标；&lt;br&gt;实时监听仓库视频平台状态、监控设备状态&lt;br&gt;及网络带宽情况，每日生成在线状况报告；" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="R3M38g9wFdwyGaRBHHTt-32" value="中心平台监测指标；&lt;br&gt;实时监听仓库视频平台状态、监控设备状态&lt;br&gt;及网络带宽情况，每日生成在线状况报告；" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1120" y="925" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R3M38g9wFdwyGaRBHHTt-33" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;exitX=0.352;exitY=0.882;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="R3M38g9wFdwyGaRBHHTt-32" parent="1" source="6a7d8f32e03d9370-15">

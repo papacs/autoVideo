@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-29T15:40:31.918Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="EFIbYUoaYyqvKDBpKaHK" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-29T15:41:52.926Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="mqPw9uWNsOA356r58Bwr" version="21.2.3" type="github">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
     <mxGraphModel dx="1114" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -118,7 +118,7 @@
         <mxCell id="6a7d8f32e03d9370-31" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.site;fillColor=#66B2FF;gradientColor=#0066CC;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1470" y="780" width="107" height="101" as="geometry" />
         </mxCell>
-        <mxCell id="6a7d8f32e03d9370-62" value="Citrix Network Architecture" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
+        <mxCell id="6a7d8f32e03d9370-62" value="交割库视频平台集成&lt;br&gt;网络部署" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="499" y="30" width="861" height="40" as="geometry" />
         </mxCell>
         <mxCell id="R3M38g9wFdwyGaRBHHTt-1" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;shape=mxgraph.citrix.home_office;fillColor=#66B2FF;gradientColor=#0066CC;fontSize=14;" vertex="1" parent="1">

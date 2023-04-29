@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-29T13:41:20.409Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="3xoFG_sJz6exRrfVqLMJ" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-29T13:41:29.704Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="MMntSUc_wQqnf_NPLLRW" version="21.2.3" type="github">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
     <mxGraphModel dx="1114" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="R3M38g9wFdwyGaRBHHTt-2" value="B仓库视频平台（海康、大华）" style="whiteSpace=wrap;html=1;fillColor=#EDEDED;fontSize=14;strokeColor=none;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="530" y="288" width="349" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="6a7d8f32e03d9370-61" value="Outside Networks" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;fontSize=14;strokeColor=none;verticalAlign=top;" parent="1" vertex="1">
+        <mxCell id="6a7d8f32e03d9370-61" value="外网" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;fontSize=14;strokeColor=none;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="1084" y="296" width="493" height="360" as="geometry" />
         </mxCell>
         <mxCell id="6a7d8f32e03d9370-60" value="交易所专用网络" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;fontSize=14;strokeColor=none;verticalAlign=top;" parent="1" vertex="1">
